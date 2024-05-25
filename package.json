@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @Wannaer-element/docs dev",
     "docs:build": "pnpm --filter @Wannaer-element/docs build",
     "docs:preview": "pnpm --filter @Wannaer-element/docs preview",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",
