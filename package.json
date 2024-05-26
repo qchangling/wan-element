@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @Wannaer-element/docs dev",
     "docs:build": "pnpm --filter @Wannaer-element/docs build",
     "docs:preview": "pnpm --filter @Wannaer-element/docs preview",
-    "test": "echo 'todo'"
+    "test": "pnpm --filter @Wannaer-element/components test"
   },
   "keywords": [],
   "author": "",
@@ -35,6 +35,9 @@
     "Wannaer-element": "workspace:*",
     "@Wannaer-element/hooks": "workspace:*",
     "@Wannaer-element/utils": "workspace:*",
-    "@Wannaer-element/theme": "workspace:*"
+    "@Wannaer-element/theme": "workspace:*",
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/vue-fontawesome": "^3.0.6"
   }
 }
