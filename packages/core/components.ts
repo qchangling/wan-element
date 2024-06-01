@@ -1,4 +1,4 @@
-import { WanButton, WanIcon } from "@Wannaer-element/components";
+import { WanButton, WanIcon, WanText } from "@Wannaer-element/components";
 import type { Plugin } from "vue";
 
-export default [WanButton, WanIcon] as Plugin[];
+export default [WanButton, WanIcon, WanText] as Plugin[];
