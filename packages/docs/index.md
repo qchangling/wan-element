@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Wan-Element"
-  text: "高仿 ElementPlus 组件库"
+  name: "wan-element"
+  text: "高仿ElementPlus 组件库"
   tagline: My great project tagline
   actions:
     - theme: brand
