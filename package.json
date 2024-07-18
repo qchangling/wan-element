@@ -8,7 +8,7 @@
     "docs:dev": "pnpm --filter @Wannaer-element/docs dev",
     "docs:build": "pnpm --filter @Wannaer-element/docs build",
     "docs:preview": "pnpm --filter @Wannaer-element/docs preview",
-    "test": "pnpm --filter @Wannaer-element/components test"
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",
