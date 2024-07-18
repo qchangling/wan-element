@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "wan-element",
   description: "高仿 ElementPlus 组件库",
-  base: '/qchangling.github.io/wan-element/',
+  base: '/wan-element/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
